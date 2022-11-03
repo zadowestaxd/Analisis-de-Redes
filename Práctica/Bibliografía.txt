@@ -2,3 +2,5 @@
     https://web.archive.org/web/20061015081716/http://web.uct.ac.za/depts/stats/adu/pdf/800.pdf
 2.https://blogdeaves.com/passeridae/tejedor-republicano/
 3.https://en.wikipedia.org/wiki/Sociable_weaver
+4. https://www.geeksforgeeks.org/graph-measurements-length-distance-diameter-eccentricity-radius-center/
+5. http://gephi.wikidot.com/capitulo02b
