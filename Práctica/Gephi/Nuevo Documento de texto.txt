@@ -1,7 +1,0 @@
-##  En el caso de Gephi, hemos tenido que realizar algún mínimo cambio en el archivo
-##para poder abrirlo,el archivo del que hacemos uso es un .edge el cual gephi
-## reconoce. Hemos tenido que escribir en la cabecera del archivo Source Target 
-## y timestamp para definir respectivamente cada valor que va a leer el programa.
-##  Cada línea consta de 3 valores separados por espacios el primero, el segundo y 
-##el tercero.
-##
