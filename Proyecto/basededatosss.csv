@@ -1,0 +1,215 @@
+,#,Pokémon,Tipo(s),Tipo(s).1,Episodios en los que aparece
+0,1,Bulbasaur,Planta,Veneno,"EP215, EP225, EP226, EP227, EP257, EP270"
+1,3,Venusaur,Planta,Veneno,EP250
+2,5,Charmeleon,Fuego,Fuego,"EP223, EP224"
+3,6,Charizard,Fuego,Volador,"EP250, EP254, EP255, EP256, EP271, EP272, EP273, EP274"
+4,7,Squirtle,Agua,Agua,"EP218, EP269, EP270, EP274, EP275"
+5,8,Wartortle,Agua,Agua,"EP218, EP221"
+6,9,Blastoise,Agua,Agua,"EP247, EP250, EP271, EP272, EP274"
+7,10,Caterpie,Bicho,Bicho,"EP227, EP229, EP237"
+8,12,Butterfree,Bicho,Volador,"EP235, EP246, EP254, EP260, EP275"
+9,13,Weedle,Bicho,Veneno,"EP229, EP237, EP252CEN"
+10,15,Beedrill,Bicho,Veneno,EP230
+11,16,Pidgey,Normal,Volador,"EP213, EP247, EP252CEN, EP255, EP260, EP276"
+12,18,Pidgeot,Normal,Volador,EP276
+13,19,Rattata,Normal,Normal,"EP225, EP227, EP237, EP254, EP255, EP274, EP276"
+14,20,Raticate,Normal,Normal,EP230
+15,21,Spearow,Normal,Volador,"EP213, EP255"
+16,22,Fearow,Normal,Volador,"EP213, EP237, EP238, EP267"
+17,24,Arbok,Veneno,Veneno,"EP212, EP215, EP221, EP222, EP224, EP228, EP229, EP230, EP231, EP232, EP233, EP234, EP235, EP238, EP239, EP241, EP242, EP243, EP244, EP245, EP249, EP250, EP251, EP252CEN, EP253, EP257, EP258, EP259, EP262, EP263, EP264, EP267, EP276"
+18,25,Pikachu,Eléctrico,Eléctrico,Toda la temporada
+19,26,Raichu,Eléctrico,Eléctrico,EP244
+20,27,Sandshrew,Tierra,Tierra,"EP225, EP235"
+21,28,Sandslash,Tierra,Tierra,"EP221, EP227, EP247"
+22,29,Nidoran♀,Veneno,Veneno,"EP227, EP254, EP255"
+23,30,Nidoqueen,Veneno,Tierra,"EP230, EP271, EP272"
+24,32,Nidoran♂,Veneno,Veneno,"EP227, EP254"
+25,34,Nidoking,Veneno,Tierra,"EP225, EP239, EP268"
+26,35,Clefairy,Hada1,Hada1,EP248
+27,37,Vulpix,Fuego,Fuego,"EP264, EP269, EP275"
+28,38,Ninetales,Fuego,Fuego,EP234
+29,39,Jigglypuff,Normal,Hada1,"EP225, EP245, EP248"
+30,40,Wigglytuff,Normal,Hada1,EP268
+31,43,Oddish,Planta,Veneno,"EP227, EP237, EP241, EP254, EP274, EP276"
+32,44,Gloom,Planta,Veneno,"EP227, EP241, EP274, EP275"
+33,45,Vileplume,Planta,Veneno,"EP227, EP230, EP241, EP252CEN, EP274"
+34,46,Paras,Bicho,Planta,EP227
+35,47,Parasect,Bicho,Planta,"EP225, EP229, EP243"
+36,48,Venonat,Bicho,Veneno,"EP227, EP254"
+37,50,Diglett,Tierra,Tierra,EP220
+38,52,Meowth,Normal,Normal,Toda la temporada
+39,53,Persian,Normal,Normal,"EP233, EP246, EP251"
+40,54,Psyduck,Agua,Agua,"EP212, EP215, EP216, EP218, EP219, EP227, EP228, EP232, EP233, EP242, EP248, EP251, EP258, EP261, EP271, EP272, EP275"
+41,55,Golduck,Agua,Agua,"EP212, EP217, EP218, EP219, EP221"
+42,56,Mankey,Lucha,Lucha,"EP235, EP252CEN, EP255"
+43,57,Primeape,Lucha,Lucha,"EP235, EP252CEN, EP264"
+44,58,Growlithe,Fuego,Fuego,EP231
+45,59,Arcanine,Fuego,Fuego,"EP230, EP272"
+46,60,Poliwag,Agua,Agua,"EP217, EP218"
+47,61,Poliwhirl,Agua,Agua,"EP212, EP215, EP217, EP218, EP219, EP220, EP223, EP224, EP225, EP227, EP233, EP237, EP240, EP242, EP245, EP248, EP249, EP270, EP275"
+48,62,Poliwrath,Agua,Lucha,"EP217, EP230, EP249, EP267"
+49,65,Alakazam,Psíquico,Psíquico,EP229
+50,66,Machop,Lucha,Lucha,EP267
+51,67,Machoke,Lucha,Lucha,"EP225, EP257, EP264, EP267, EP268, EP273, EP276"
+52,68,Machamp,Lucha,Lucha,"EP230, EP271, EP273"
+53,69,Bellsprout,Planta,Veneno,"EP225, EP227, EP254, EP274"
+54,70,Weepinbell,Planta,Veneno,"EP225, EP227, EP252CEN, EP263"
+55,71,Victreebel,Planta,Veneno,"EP215, EP224, EP228, EP231, EP233, EP234, EP241, EP242, EP244, EP245, EP249, EP252CEN, EP257, EP258, EP263"
+56,72,Tentacool,Agua,Veneno,EP216
+57,73,Tentacruel,Agua,Veneno,"EP212, EP218"
+58,74,Geodude,Roca,Tierra,"EP233, EP248, EP251, EP252CEN, EP255, EP261"
+59,76,Golem,Roca,Tierra,"EP239, EP272"
+60,77,Ponyta,Fuego,Fuego,EP225
+61,78,Rapidash,Fuego,Fuego,EP274
+62,79,Slowpoke,Agua,Psíquico,"EP218, EP246, EP262"
+63,80,Slowbro,Agua,Psíquico,"EP246, EP262"
+64,81,Magnemite,Eléctrico,Acero,"EP225, EP226, EP244"
+65,82,Magneton,Eléctrico,Acero,"(Para ver las apariciones de Magneton variocolor, ver Lista de Pokémon variocolores por aparición en el anime)"
+66,83,Farfetch'd,Normal,Volador,EP247
+67,84,Doduo,Normal,Volador,EP225
+68,85,Dodrio,Normal,Volador,"EP220, EP230"
+69,86,Seel,Agua,Agua,"EP212, EP217, EP218, EP227, EP240"
+70,87,Dewgong,Agua,Hielo,"EP212, EP238, EP239, EP240"
+71,89,Muk,Veneno,Veneno,"EP257, EP272"
+72,90,Shellder,Agua,Agua,"EP216, EP217, EP223, EP240, EP246, EP262"
+73,92,Gastly,Fantasma,Veneno,EP229
+74,93,Haunter,Fantasma,Veneno,"EP257, EP276"
+75,94,Gengar,Fantasma,Veneno,EP229
+76,95,Onix,Roca,Tierra,"EP225, EP226, EP227, EP233, EP235, EP248, EP251, EP255, EP261"
+77,97,Hypno,Psíquico,Psíquico,EP273
+78,99,Kingler,Agua,Agua,"EP217, EP219, EP257, EP269"
+79,100,Voltorb,Eléctrico,Eléctrico,"EP244, EP264, EP269"
+80,101,Electrode,Eléctrico,Eléctrico,EP268
+81,102,Exeggcute,Planta,Psíquico,EP231
+82,103,Exeggutor,Planta,Psíquico,"EP230, EP252CEN, EP268"
+83,104,Cubone,Tierra,Tierra,EP227
+84,106,Hitmonlee,Lucha,Lucha,"EP235, EP246, EP274, EP275"
+85,107,Hitmonchan,Lucha,Lucha,"EP230, EP235, EP246, EP274, EP275"
+86,108,Lickitung,Normal,Normal,EP230
+87,110,Weezing,Veneno,Veneno,"EP212, EP214, EP215, EP217, EP221, EP231, EP232, EP233, EP235, EP236, EP239, EP243, EP245, EP247, EP253, EP259, EP262, EP263, EP264, EP275, EP276"
+88,111,Rhyhorn,Tierra,Roca,EP274
+89,112,Rhydon,Tierra,Roca,"EP230, EP267, EP274"
+90,113,Chansey,Normal,Normal,"EP212, EP217, EP229, EP231, EP249, EP269"
+91,114,Tangela,Planta,Planta,"EP225, EP229"
+92,115,Kangaskhan,Normal,Normal,EP231
+93,116,Horsea,Agua,Agua,EP216
+94,118,Goldeen,Agua,Agua,"EP212, EP223, EP227, EP233, EP246, EP248, EP258, EP261, EP275"
+95,119,Seaking,Agua,Agua,"EP217, EP218, EP246"
+96,120,Staryu,Agua,Agua,"EP212, EP215, EP216, EP217, EP218, EP223, EP225, EP227, EP233, EP248, EP254, EP255, EP258, EP261, EP275"
+97,121,Starmie,Agua,Psíquico,EP212
+98,122,Mr. Mime,Psíquico,Hada2,"EP227, EP268, EP269, EP274, EP275"
+99,123,Scyther,Bicho,Volador,"EP225, EP227, EP230, EP257, EP267"
+100,124,Jynx,Hielo,Psíquico,EP252CEN
+101,125,Electabuzz,Eléctrico,Eléctrico,"EP224, EP244, EP269"
+102,126,Magmar,Fuego,Fuego,"EP239, EP264, EP271"
+103,127,Pinsir,Bicho,Bicho,EP227
+104,128,Tauros,Normal,Normal,"EP227, EP230, EP235, EP268, EP271"
+105,129,Magikarp,Agua,Agua,"EP212, EP216, EP217, EP218, EP227, EP237, EP246, EP263, EP271, EP274"
+106,130,Gyarados,Agua,Volador,"EP218, EP219, EP228, EP246, EP256, EP274 (para ver las apariciones de Gyarados variocolor, ver Lista de Pokémon variocolores por aparición en el anime)"
+107,131,Lapras,Agua,Hielo,"EP218, EP240, EP259, EP275"
+108,133,Eevee,Normal,Normal,"EP247, EP264, EP274"
+109,134,Vaporeon,Agua,Agua,"EP228, EP274"
+110,135,Jolteon,Eléctrico,Eléctrico,"EP228, EP244, EP274"
+111,136,Flareon,Fuego,Fuego,"EP228, EP242, EP274"
+112,143,Snorlax,Normal,Normal,"EP226, EP248, EP256, EP257, EP268, EP272, EP273"
+113,144,Articuno,Hielo,Volador,EP231
+114,145,Zapdos,Eléctrico,Volador,"EP231, EP244"
+115,146,Moltres,Fuego,Volador,EP231
+116,147,Dratini,Dragón,Dragón,EP253
+117,148,Dragonair,Dragón,Dragón,"EP218, EP253, EP254, EP255, EP256, EP257"
+118,149,Dragonite,Dragón,Volador,"EP237, EP238, EP253, EP254, EP255"
+119,152,Chikorita,Planta,Planta,EP257
+120,153,Bayleef,Planta,Planta,"EP214,EP215,EP218, EP219, EP222, EP225, EP226, EP227, EP230, EP233, EP234, EP235, EP238, EP241, EP244, EP248, EP249, EP251, EP252CEN, EP257, EP261, EP263, EP264, EP269, EP272, EP273"
+121,154,Meganium,Planta,Planta,"EP263, EP268, EP270"
+122,155,Cyndaquil,Fuego,Fuego,"EP220, EP223, EP224, EP226, EP227, EP229, EP230, EP233, EP238, EP239, EP240, EP248, EP250, EP251, EP257, EP260, EP261, EP264, EP268, EP270"
+123,156,Quilava,Fuego,Fuego,"EP264, EP269, EP270"
+124,158,Totodile,Agua,Agua,"EP212, EP214, EP215, EP216, EP217, EP218, EP219, EP223, EP224, EP226, EP227, EP230, EP233, EP234, EP237, EP239, EP245, EP248, EP250, EP251, EP252CEN, EP254, EP257, EP258, EP261, EP264, EP267, EP269, EP273"
+125,159,Croconaw,Agua,Agua,EP266
+126,160,Feraligatr,Agua,Agua,"EP219, EP268"
+127,161,Sentret,Normal,Normal,"EP230, EP254, EP255, EP275"
+128,162,Furret,Normal,Normal,"EP252CEN, EP254, EP255, EP264, EP268"
+129,163,Hoothoot,Normal,Volador,"EP225, EP257"
+130,164,Noctowl,Normal,Volador,"EP225, EP229, EP268 (para ver las apariciones de Noctowl variocolor, ver Lista de Pokémon variocolores por aparición en el anime)"
+131,167,Spinarak,Bicho,Veneno,"EP229, EP237, EP243, EP252CEN, EP275"
+132,168,Ariados,Bicho,Veneno,EP229
+133,169,Crobat,Veneno,Volador,"EP220, EP223, EP225, EP228, EP233, EP248, EP251, EP259, EP261, EP266"
+134,170,Chinchou,Agua,Eléctrico,"EP214, EP216, EP219, EP228, EP244, EP246"
+135,171,Lanturn,Agua,Eléctrico,"EP222, EP223, EP224, EP246, EP258, EP259"
+136,173,Cleffa,Hada1,Hada1,EP248
+137,174,Igglybuff,Normal,Hada1,EP245
+138,175,Togepi,Hada1,Hada1,"EP212, EP213, EP214, EP215, EP216, EP217, EP218, EP219, EP220, EP221, EP222, EP223, EP224, EP225, EP226, EP227, EP228, EP229, EP230, EP231, EP232, EP233, EP234, EP235, EP236, EP237, EP238, EP239, EP240, EP241, EP242, EP243, EP244, EP245, EP246, EP247, EP248, EP249, EP250, EP251, EP252CEN, EP253, EP254, EP255, EP256, EP257, EP258, EP259, EP260, EP261, EP262, EP263, EP264, EP265, EP266, EP267, EP268, EP269, EP270, EP271, EP272, EP273, EP274, EP275"
+139,177,Natu,Psíquico,Volador,EP230
+140,178,Xatu,Psíquico,Volador,EP236
+141,179,Mareep,Eléctrico,Eléctrico,EP275
+142,181,Ampharos,Eléctrico,Eléctrico,"EP225, EP244"
+143,182,Bellossom,Planta,Planta,"EP227, EP241, EP251, EP254, EP260"
+144,183,Marill,Agua,Hada3,"EP212, EP217, EP218, EP227, EP240, EP275"
+145,184,Azumarill,Agua,Hada3,"EP218, EP270"
+146,186,Politoed,Agua,Agua,"EP249, EP250, EP251, EP252CEN, EP254, EP255, EP258, EP261, EP271, EP272, EP273, EP274, EP275"
+147,187,Hoppip,Planta,Volador,"EP227, EP235, EP254"
+148,188,Skiploom,Planta,Volador,"EP227, EP235, EP254"
+149,189,Jumpluff,Planta,Volador,"EP227, EP231, EP251, EP254, EP260"
+150,190,Aipom,Normal,Normal,"EP230, EP243, EP252CEN, EP255, EP261"
+151,192,Sunflora,Planta,Planta,"EP251, EP254"
+152,194,Wooper,Agua,Tierra,"EP217, EP230, EP257"
+153,195,Quagsire,Agua,Tierra,"EP218, EP227, EP264"
+154,196,Espeon,Psíquico,Psíquico,"EP228, EP274"
+155,197,Umbreon,Siniestro,Siniestro,"EP228, EP274"
+156,198,Murkrow,Siniestro,Volador,"EP243, EP255, EP270"
+157,199,Slowking,Agua,Psíquico,"EP262, EP265"
+158,200,Misdreavus,Fantasma,Fantasma,"EP261, EP274"
+159,201,Unown,Psíquico,Psíquico,EP265
+160,202,Wobbuffet,Psíquico,Psíquico,"EP212, EP213, EP214, EP215, EP216, EP217, EP218, EP219, EP220, EP221, EP222, EP223, EP224, EP225, EP227, EP228, EP229, EP230, EP231, EP232, EP233, EP234, EP235, EP236, EP237, EP238, EP239, EP240, EP241, EP242, EP243, EP244, EP245, EP246, EP247, EP248, EP249, EP250, EP251, EP252CEN, EP253, EP254, EP255, EP256, EP257, EP258, EP259, EP260, EP261, EP262, EP263, EP264, EP265, EP266, EP267, EP268, EP269, EP270, EP271, EP272, EP273, EP274, EP275, EP276"
+161,203,Girafarig,Normal,Psíquico,"EP261, EP268"
+162,204,Pineco,Bicho,Bicho,"EP227, EP233, EP248, EP261"
+163,205,Forretress,Bicho,Acero,"EP261, EP262, EP263, EP275"
+164,207,Gligar,Tierra,Volador,EP229
+165,208,Steelix,Acero,Tierra,"EP226, EP257, EP273"
+166,210,Granbull,Hada1,Hada1,EP230
+167,211,Qwilfish,Agua,Veneno,"EP218, EP246, EP258"
+168,212,Scizor,Bicho,Acero,"EP212, EP264, EP272"
+169,214,Heracross,Bicho,Lucha,"EP227, EP271, EP272"
+170,215,Sneasel,Siniestro,Hielo,"EP267, EP271, EP273"
+171,216,Teddiursa,Normal,Normal,EP230
+172,217,Ursaring,Normal,Normal,"EP239, EP249, EP261, EP267, EP268"
+173,218,Slugma,Fuego,Fuego,EP269
+174,219,Magcargo,Fuego,Roca,"EP242, EP269"
+175,220,Swinub,Hielo,Tierra,"EP252CEN, EP261"
+176,221,Piloswine,Hielo,Tierra,"EP239, EP240, EP252CEN, EP257, EP261, EP268"
+177,222,Corsola,Agua,Roca,"EP212, EP213, EP214, EP215, EP216, EP217, EP218, EP219, EP223, EP227, EP228, EP233, EP245, EP248, EP249, EP251, EP252CEN, EP258, EP261, EP267, EP275"
+178,223,Remoraid,Agua,Agua,"EP216, EP217, EP218, EP246, EP274"
+179,224,Octillery,Agua,Agua,"EP217, EP274"
+180,225,Delibird,Hielo,Volador,"EP233, EP236, EP246, EP272"
+181,226,Mantine,Agua,Volador,"EP216, EP258"
+182,227,Skarmory,Acero,Volador,EP212
+183,228,Houndour,Siniestro,Fuego,"EP222, EP223, EP224, EP261, EP274"
+184,229,Houndoom,Siniestro,Fuego,"EP261, EP267, EP273, EP274"
+185,230,Kingdra,Agua,Dragón,"EP218, EP254, EP256"
+186,231,Phanpy,Tierra,Tierra,"EP232, EP233, EP239, EP245, EP248, EP249, EP251, EP261, EP263, EP264, EP267, EP268, EP269"
+187,232,Donphan,Tierra,Tierra,EP268
+188,234,Stantler,Normal,Normal,"EP252CEN, EP254"
+189,236,Tyrogue,Lucha,Lucha,"EP235, EP274"
+190,237,Hitmontop,Lucha,Lucha,"EP222, EP223, EP224, EP249, EP264, EP274, EP275"
+191,238,Smoochum,Hielo,Psíquico,EP250
+192,239,Elekid,Eléctrico,Eléctrico,"EP263, EP265"
+193,240,Magby,Fuego,Fuego,"EP264, EP265"
+194,241,Miltank,Normal,Normal,"EP227, EP257, EP270"
+195,243,Raikou,Eléctrico,Eléctrico,EP229
+196,244,Entei,Fuego,Fuego,"EP229, EP261"
+197,245,Suicune,Agua,Agua,EP229
+198,246,Larvitar,Roca,Tierra,"EP260, EP261, EP262, EP263, EP264, EP265, EP266"
+199,247,Pupitar,Roca,Tierra,"EP222, EP224"
+200,248,Tyranitar,Roca,Siniestro,"EP265, EP266"
+201,249,Lugia,Psíquico,Volador,"EP212, EP216, EP221, EP222, EP223, EP224"
+202,250,Ho-Oh,Fuego,Volador,"EP229, EP267, EP275"
+203,257,Blaziken,Fuego,Lucha,"EP267, EP273, EP274"
+204,263,Zigzagoon,Normal,Normal,EP274
+205,270,Lotad,Agua,Planta,EP274
+206,273,Seedot,Planta,Planta,EP274
+207,278,Wingull,Agua,Volador,EP276
+208,279,Pelipper,Agua,Volador,EP276
+209,285,Shroomish,Planta,Planta,EP274
+210,319,Sharpedo,Agua,Siniestro,"EP274, EP276"
+211,320,Wailmer,Agua,Agua,"EP274, EP276"
+212,352,Kecleon,Normal,Normal,"EP272, EP273"
+213,360,Wynaut,Psíquico,Psíquico,"EP254, EP255, EP256, EP257"
