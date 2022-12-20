@@ -1,0 +1,169 @@
+	#	Pokémon	Tipo(s)	Tipo(s)1	Episodios en los que aparece
+0	1	Bulbasaur	Planta	Veneno	EP052, EP053, EP062, EP063, EP066, EP069, EP070, EP071, EP075, EP076, EP078, EP079, EP080, EP081, EP082, EP083, EP084, EP094, EP095, EP096, EP097, EP100, EP101, EP104, EP105, EP106, EP107, EP111, EP113 y EP114
+1	2	Ivysaur	Planta	Veneno	EP082
+2	3	Venusaur	Planta	Veneno	EP1101 y EP114
+3	4	Charmander	Fuego	Fuego	EP063, EP065, EP066, EP075, EP080, EP081, EP082 y EP107
+4	5	Charmeleon	Fuego	Fuego	EP089 y EP107
+5	6	Charizard	Fuego	Volador	EP058, EP059, EP064, EP075, EP081, EP083, EP095, EP100, EP101, EP105, EP107, EP110, EP113 y EP114
+6	7	Squirtle	Agua	Agua	EP053, EP058, EP059, EP060, EP061, EP062, EP063, EP065, EP066, EP071, EP073, EP076, EP078, EP081, EP082, EP083, EP084, EP087, EP091, EP092, EP093, EP094, EP095, EP096, EP098, EP100, EP101, EP105, EP107, EP108, EP109, EP113, EP114, EP115 y EP116
+7	8	Wartortle	Agua	Agua	EP060, EP088, EP093, EP108 y EP110
+8	9	Blastoise	Agua	Agua	EP060, EP071, EP087, EP093, EP100, EP108, EP113 y EP115
+9	10	Caterpie	Bicho	Bicho	EP062, EP089, EP099 y EP102
+10	10	CaterpieIR	Bicho	Bicho	EP090
+11	11	Metapod	Bicho	Bicho	EP099
+12	12	Butterfree	Bicho	Volador	EP062, EP071, EP080, EP081, EP082, EP083, EP092 y EP118
+13	12	Butterfreedel Archipiélago Naranja	Bicho	Volador	EP085, EP096, EP101 y EP117
+14	13	Weedle	Bicho	Veneno	EP099
+15	13	WeedleIR	Bicho	Veneno	EP090
+16	14	Kakuna	Bicho	Veneno	EP067
+17	15	Beedrill	Bicho	Veneno	EP053, EP067, EP079, EP082, EP086, EP097, EP099, EP103 y EP118
+18	16	Pidgey	Normal	Volador	EP062, EP067, EP076, EP077, EP083 y EP102
+19	16	PidgeyIR	Normal	Volador	EP090
+20	17	Pidgeotto	Normal	Volador	EP053, EP058, EP062, EP063, EP066, EP067, EP071, EP074, EP075, EP077, EP078, EP080, EP081, EP082 y EP083 (para ver las apariciones de Pidgeotto color alterno no variocolor, ver Lista de Pokémon variocolores por aparición en el anime)
+21	18	Pidgeot	Normal	Volador	EP083, EP105 y EP106
+22	19	Rattata	Normal	Normal	EP062, EP067 y EP071 (para ver las apariciones de Rattata color alterno no variocolor, ver Lista de Pokémon variocolores por aparición en el anime)
+23	20	Raticate	Normal	Normal	EP052, EP067, EP071, EP077, EP082, EP083, EP102 y EP113
+24	20	RaticateIV	Normal	Normal	EP085
+25	21	Spearow	Normal	Volador	EP067, EP082, EP083 y EP086
+26	22	Fearow	Normal	Volador	EP052, EP063, EP069, EP071 y EP083
+27	23	Ekans	Veneno	Veneno	EP062, EP071 y EP099
+28	24	Arbok	Veneno	Veneno	EP052, EP053, EP061, EP063, EP070, EP071, EP072, EP074, EP075, EP080, EP083, EP084, EP088, EP089, EP090, EP093, EP096, EP097, EP099, EP100, EP102, EP103, EP106, EP108, EP110 y EP112
+29	25	Pikachu	Eléctrico	Eléctrico	Toda la temporada
+30	26	Raichu	Eléctrico	Eléctrico	EP062, EP071, EP075, EP092 y EP110
+31	27	Sandshrew	Tierra	Tierra	EP067, EP086 y EP094
+32	28	Sandslash	Tierra	Tierra	EP073, EP077 y EP110
+33	29	Nidoran♀	Veneno	Veneno	EP067, EP071 y EP102
+34	29	Nidoran♀IV	Veneno	Veneno	EP085
+35	29	Nidoran♀IR	Veneno	Veneno	EP090
+36	30	Nidorina	Veneno	Veneno	EP102 y EP117
+37	31	Nidoqueen	Veneno	Tierra	EP095, EP100, EP113 y EP117
+38	32	Nidoran♂IV	Veneno	Veneno	EP067, EP075 y EP102
+39	32	Nidoran♂	Veneno	Veneno	EP085
+40	32	Nidoran♂IR	Veneno	Veneno	EP090
+41	33	Nidorino	Veneno	Veneno	EP062, EP071, EP078, EP082, EP102 y EP117
+42	34	Nidoking	Veneno	Tierra	EP063, EP079, EP098 y EP118
+43	34	NidokingIR	Veneno	Tierra	EP090
+44	35	Clefairy	Hada2	Hada2	EP062, EP071 y EP098
+45	36	Clefable	Hada2	Hada2	EP092
+46	37	Vulpix	Fuego	Fuego	EP052, EP053, EP066, EP067, EP071, EP074, EP076, EP083, EP084, EP085, EP088, EP102 y EP117
+47	38	Ninetales	Fuego	Fuego	EP058 y EP105
+48	39	Jigglypuff	Normal	Hada2	EP058, EP059, EP060, EP062, EP071, EP074, EP084, EP085, EP086, EP090, EP094, EP096, EP100, EP110, EP116 y EP117
+49	41	Zubat	Veneno	Volador	EP053, EP083, EP084, EP085 y EP117
+50	42	Golbat	Veneno	Volador	EP077 y EP082
+51	43	Oddish	Planta	Veneno	EP062, EP067, EP071, EP082, EP083 y EP102
+52	43	OddishIR	Planta	Veneno	EP090
+53	44	Gloom	Planta	Veneno	EP070, EP077, EP082, EP096 y EP109
+54	45	Vileplume	Planta	Veneno	EP094, EP112, EP117
+55	45	VileplumeIV	Planta	Veneno	EP085
+56	45	VileplumeIR	Planta	Veneno	EP090
+57	46	Paras	Bicho	Planta	EP067, EP091 y EP099
+58	46	ParasIV	Bicho	Planta	EP085
+59	46	ParasIR	Bicho	Planta	EP090
+60	47	Parasect	Bicho	Planta	EP052, EP067, EP082 y EP118
+61	48	Venonat	Bicho	Veneno	EP062, EP071, EP075, EP082, EP086, EP089, EP099, EP100, EP108 y EP118
+62	48	VenonatIR	Bicho	Veneno	EP090
+63	49	Venomoth	Bicho	Veneno	EP077, EP082, EP099, EP105 y EP118
+64	50	Diglett	Tierra	Tierra	EP071, EP083 y EP116
+65	50	DiglettIR	Tierra	Tierra	EP090
+66	51	Dugtrio	Tierra	Tierra	EP062, EP071 y EP116
+67	52	Meowth	Normal	Normal	Toda la temporada
+68	53	Persian	Normal	Normal	EP063, EP064, EP067, EP068, EP072, EP084, EP101 y EP106
+69	54	Psyduck	Agua	Agua	EP052, EP053, EP059, EP061, EP062, EP065, EP068, EP071, EP083, EP084, EP087, EP090, EP092, EP093, EP094, EP096, EP100, EP106, EP107 y EP112
+70	55	Golduck	Agua	Agua	EP093
+71	56	Mankey	Lucha	Lucha	EP067, EP082, EP083, EP088 y EP094
+72	56	MankeyIR	Lucha	Lucha	EP090
+73	57	Primeape	Lucha	Lucha	EP052, EP058, EP067, EP088 y EP101
+74	57	PrimeapeIR	Lucha	Lucha	EP090
+75	58	Growlithe	Fuego	Fuego	EP067, EP079, EP088 y EP091
+76	59	Arcanine	Fuego	Fuego	EP063, EP078 y EP118
+77	60	Poliwag	Agua	Agua	EP062, EP067, EP071, EP083, EP088, EP093, EP112 y EP115
+78	61	Poliwhirl	Agua	Agua	EP058, EP067, EP082, EP085 y EP110 (para ver las apariciones de Poliwhirl color alterno no variocolor, ver Lista de Pokémon variocolores por aparición en el anime)
+79	62	Poliwrath	Agua	Lucha	EP071, EP093 y EP107
+80	63	Abra	Psíquico	Psíquico	EP071 y EP092
+81	64	Kadabra	Psíquico	Psíquico	EP075, EP101 y EP118
+82	65	Alakazam	Psíquico	Psíquico	EP068, EP074, EP105 y EP110
+83	66	Machop	Lucha	Lucha	EP058, EP070 y EP110
+84	67	Machoke	Lucha	Lucha	EP052, EP058, EP064, EP091, EP092, EP095 y EP113
+85	68	Machamp	Lucha	Lucha	EP063, EP101 y EP118
+86	69	Bellsprout	Planta	Veneno	EP079, EP082, EP083 y EP111
+87	69	BellsproutIR	Planta	Veneno	EP090
+88	70	Weepinbell	Planta	Veneno	EP062, EP071 y EP075
+89	70	WeepinbellIV	Planta	Veneno	EP085
+90	71	Victreebel	Planta	Veneno	EP076, EP079, EP088, EP089, EP090, EP092, EP095, EP096, EP097, EP099, EP100, EP102, EP106, EP112 y EP117
+91	72	Tentacool	Agua	Veneno	EP082 y EP093
+92	73	Tentacruel	Agua	Veneno	EP077, EP093, EP107 y EP115
+93	74	Geodude	Roca	Tierra	EP053, EP059, EP067, EP072, EP083, EP084, EP085, EP095, EP100 y EP117 (para ver las apariciones de Geodude color alterno no variocolor, ver Lista de Pokémon variocolores por aparición en el anime)
+94	75	Graveler	Roca	Tierra	EP052 y EP082
+95	76	Golem	Roca	Tierra	EP063, EP079, EP105 y EP107
+96	77	Ponyta	Fuego	Fuego	EP064, EP065, EP067 y EP088
+97	78	Rapidash	Fuego	Fuego	EP064, EP067 y EP074
+98	79	Slowpoke	Agua	Psíquico	EP062, EP067, EP068 y EP115
+99	80	Slowbro	Agua	Psíquico	EP068, EP080 y EP101
+100	81	Magnemite	Eléctrico	Acero3	EP071, EP088 y EP103
+101	82	Magneton	Eléctrico	Acero3	EP103
+102	83	Farfetch'd	Normal	Volador	EP100 y EP117
+103	84	Doduo	Normal	Volador	EP067, EP071 y EP075
+104	85	Dodrio	Normal	Volador	EP064, EP070, EP086, y EP117 (para ver las apariciones de Dodrio color alterno no variocolor, ver Lista de Pokémon variocolores por aparición en el anime)
+105	86	Seel	Agua	Agua	EP061, EP067, EP093, EP094 y EP105
+106	87	Dewgong	Agua	Hielo	EP061, EP067, EP086, EP094 y EP101
+107	88	Grimer	Veneno	Veneno	EP088
+108	89	Muk	Veneno	Veneno	EP064, EP067, EP074, EP079, EP082, EP087, EP090, EP104, EP113 y EP117
+109	90	Shellder	Agua	Agua	EP061, EP068, EP094 y EP097
+110	91	Cloyster	Agua	Hielo	EP063, EP071, EP078, EP082, EP085, EP089 y EP101
+111	92	Gastly	Fantasma	Veneno	EP062, EP071, EP088, EP094 y EP097
+112	93	Haunter	Fantasma	Veneno	EP097
+113	94	Gengar	Fantasma	Veneno	EP074, EP113 y EP114
+114	95	Onix	Roca	Tierra	EP053, EP059, EP066, EP067, EP073, EP074, EP075, EP078, EP083, EP084, EP085, EP094, EP098, EP109, EP113, EP117 y EP118 (para ver las apariciones de Onix color alterno no variocolor, ver Lista de Pokémon variocolores por aparición en el anime)
+115	96	Drowzee	Psíquico	Psíquico	EP080 y EP088
+116	98	Krabby	Agua	Agua	EP067, EP068, EP071, EP074, EP077, EP082, EP086, EP093 y EP112
+117	99	Kingler	Agua	Agua	EP052, EP063, EP075, EP077, EP078, EP082, EP088, EP093, EP094, EP113 y EP117
+118	100	Voltorb	Eléctrico	Eléctrico	EP062, EP067, EP071, EP083, EP086, EP088 y EP116
+119	101	Electrode	Eléctrico	Eléctrico	EP067, EP095, EP100, EP113 y EP116
+120	102	Exeggcute	Planta	Psíquico	EP062, EP064, EP067 y EP071
+121	103	Exeggutor	Planta	Psíquico	EP077, EP082, EP083 y EP105
+122	103	ExeggutorIR	Planta	Psíquico	EP090
+123	104	Cubone	Tierra	Tierra	EP052
+124	105	Marowak	Tierra	Tierra	EP075, EP101 y EP110
+125	106	Hitmonlee	Lucha	Lucha	EP058, EP071, EP075, EP082 y EP087
+126	107	Hitmonchan	Lucha	Lucha	EP058, EP073, EP076, EP082, EP086, EP088, EP092 y EP105
+127	108	Lickitung	Normal	Normal	EP052, EP084, EP088, EP090, EP096, EP099, EP100, EP110 y EP117
+128	109	Koffing	Veneno	Veneno	EP062 y EP071
+129	110	Weezing	Veneno	Veneno	EP052, EP053, EP061, EP063, EP065, EP068, EP070, EP071, EP072, EP075, EP076, EP080, EP081, EP082, EP084, EP086, EP087, EP088, EP090, EP092, EP099, EP100, EP104, EP106, EP108, EP110 y EP112
+130	111	Rhyhorn	Tierra	Roca	EP067, EP117 y EP118
+131	111	RhyhornIR	Tierra	Roca	EP090
+132	112	Rhydon	Tierra	Roca	EP058, EP063, EP067, EP075, EP082, EP091, EP105, EP106 y EP118
+133	112	RhydonIR	Tierra	Roca	EP090
+134	113	Chansey	Normal	Normal	EP071, EP075, EP076, EP081, EP085, EP087, EP092, EP094, EP099, EP103, EP109 y EP113
+135	114	Tangela	Planta	Planta	EP052, EP064 y EP082
+136	116	Horsea	Agua	Agua	EP053, EP060, EP061, EP067 y EP093
+137	117	Seadra	Agua	Agua	EP077, EP087 y EP100
+138	118	Goldeen	Agua	Agua	EP053, EP060, EP061, EP065, EP067, EP073, EP083, EP091, EP093, EP096, EP100, EP112 y EP115
+139	119	Seaking	Agua	Agua	EP061, EP077, EP088 y EP093
+140	120	Staryu	Agua	Agua	EP053, EP059, EP060, EP061, EP062, EP065, EP067, EP071, EP073, EP082, EP083, EP084, EP089, EP091, EP092, EP093, EP094, EP096, EP097, EP100, EP102, EP105, EP106, EP108, EP112 y EP115
+141	121	Starmie	Agua	Psíquico	EP053, EP060, EP061, EP065, EP067, EP075, EP086, EP088, EP093, EP105 y EP113
+142	122	Mr. Mime	Psíquico	Hada4	EP064, EP067, EP068, EP070, EP072, EP075, EP077, EP083, EP092, EP117 y EP118
+143	123	Scyther	Bicho	Volador	EP075, EP079, EP095, EP099, EP100, EP108, EP113 y EP118 (para ver las apariciones de Scyther color alterno no variocolor, ver Lista de Pokémon variocolores por aparición en el anime)
+144	124	Jynx	Hielo	Psíquico	EP065, EP092, EP101 y EP1101
+145	125	Electabuzz	Eléctrico	Eléctrico	EP058, EP085, EP088, EP105, EP110, EP114 y EP118 (para ver las apariciones de Electabuzz color alterno no variocolor, ver Lista de Pokémon variocolores por aparición en el anime)
+146	126	Magmar	Fuego	Fuego	EP058, EP059 y EP075
+147	127	Pinsir	Bicho	Bicho	EP052, EP099 y EP1101
+148	128	Tauros	Normal	Normal	EP067, EP071, EP086, EP101, EP103, EP113, EP114, EP117 y EP118
+149	129	Magikarp	Agua	Agua	EP061, EP067, EP068, EP080, EP085, EP088, EP094 y EP111
+150	130	Gyarados	Agua	Volador	EP069, EP071, EP085, EP094, EP111 y EP118
+151	131	Lapras	Agua	Hielo	EP065, EP086, EP087, EP088, EP089, EP090, EP091, EP093, EP094, EP095, EP096, EP097, EP098, EP099, EP100, EP105, EP106, EP107, EP108, EP109, EP110, EP111, EP112, EP113, EP114 y EP115 (para ver las apariciones de Lapras color alterno no variocolor, ver Lista de Pokémon variocolores por aparición en el anime)
+152	132	Ditto	Normal	Normal	EP100 y EP113
+153	133	Eevee	Normal	Normal	EP090 y EP118
+154	134	Vaporeon	Agua	Agua	EP088
+155	135	Jolteon	Eléctrico	Eléctrico	EP088 y EP103
+156	136	Flareon	Fuego	Fuego	EP075 y EP088
+157	137	Porygon	Normal	Normal	EP062 y EP071
+158	138	Omanyte	Roca	Agua	EP062 y EP071
+159	140	Kabuto	Roca	Agua	EP091
+160	143	Snorlax	Normal	Normal	EP067, EP075, EP096, EP100, EP106, EP109, EP113 y EP117
+161	146	Moltres	Fuego	Volador	EP076 y EP082
+162	147	Dratini	Dragón	Dragón	EP093
+163	148	Dragonair	Dragón	Dragón	EP093
+164	149	Dragonite	Dragón	Volador	EP093, EP113 y EP114
+165	175	Togepi	Hada2	Hada2	Toda la temporada
+166	183	Marill	Agua	Hada5	EP089, EP090, EP092, EP093, EP094, EP097, EP099, EP100, EP102, EP106, EP108, EP115 y EP118
+167	250	Ho-Oh	Fuego	Volador	EP067
