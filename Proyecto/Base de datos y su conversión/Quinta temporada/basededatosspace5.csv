@@ -64,7 +64,7 @@
 62	79	Slowpoke	Agua	Psíquico	EP218, EP246, EP262
 63	80	Slowbro	Agua	Psíquico	EP246, EP262
 64	81	Magnemite	Eléctrico	Acero	EP225, EP226, EP244
-65	82	Magneton	Eléctrico	Acero	(Para ver las apariciones de Magneton variocolor, ver Lista de Pokémon variocolores por aparición en el anime)
+65	82	Magneton	Eléctrico	Acero	EP000
 66	83	Farfetch'd	Normal	Volador	EP247
 67	84	Doduo	Normal	Volador	EP225
 68	85	Dodrio	Normal	Volador	EP220, EP230
@@ -105,7 +105,7 @@
 103	127	Pinsir	Bicho	Bicho	EP227
 104	128	Tauros	Normal	Normal	EP227, EP230, EP235, EP268, EP271
 105	129	Magikarp	Agua	Agua	EP212, EP216, EP217, EP218, EP227, EP237, EP246, EP263, EP271, EP274
-106	130	Gyarados	Agua	Volador	EP218, EP219, EP228, EP246, EP256, EP274 (para ver las apariciones de Gyarados variocolor, ver Lista de Pokémon variocolores por aparición en el anime)
+106	130	Gyarados	Agua	Volador	EP218, EP219, EP228, EP246, EP256, EP274
 107	131	Lapras	Agua	Hielo	EP218, EP240, EP259, EP275
 108	133	Eevee	Normal	Normal	EP247, EP264, EP274
 109	134	Vaporeon	Agua	Agua	EP228, EP274
@@ -119,7 +119,7 @@
 117	148	Dragonair	Dragón	Dragón	EP218, EP253, EP254, EP255, EP256, EP257
 118	149	Dragonite	Dragón	Volador	EP237, EP238, EP253, EP254, EP255
 119	152	Chikorita	Planta	Planta	EP257
-120	153	Bayleef	Planta	Planta	EP214,EP215,EP218, EP219, EP222, EP225, EP226, EP227, EP230, EP233, EP234, EP235, EP238, EP241, EP244, EP248, EP249, EP251, EP252, EP257, EP261, EP263, EP264, EP269, EP272, EP273
+120	153	Bayleef		Planta	Planta	EP214, EP215, EP218, EP219, EP222, EP225, EP226, EP227, EP230, EP233, EP234, EP235, EP238, EP241, EP244, EP248, EP249, EP251, EP252, EP257, EP261, EP263, EP264, EP269, EP272, EP273
 121	154	Meganium	Planta	Planta	EP263, EP268, EP270
 122	155	Cyndaquil	Fuego	Fuego	EP220, EP223, EP224, EP226, EP227, EP229, EP230, EP233, EP238, EP239, EP240, EP248, EP250, EP251, EP257, EP260, EP261, EP264, EP268, EP270
 123	156	Quilava	Fuego	Fuego	EP264, EP269, EP270
@@ -129,7 +129,7 @@
 127	161	Sentret	Normal	Normal	EP230, EP254, EP255, EP275
 128	162	Furret	Normal	Normal	EP252, EP254, EP255, EP264, EP268
 129	163	Hoothoot	Normal	Volador	EP225, EP257
-130	164	Noctowl	Normal	Volador	EP225, EP229, EP268 (para ver las apariciones de Noctowl variocolor, ver Lista de Pokémon variocolores por aparición en el anime)
+130	164	Noctowl	Normal	Volador	EP225, EP229, EP268 
 131	167	Spinarak	Bicho	Veneno	EP229, EP237, EP243, EP252, EP275
 132	168	Ariados	Bicho	Veneno	EP229
 133	169	Crobat	Veneno	Volador	EP220, EP223, EP225, EP228, EP233, EP248, EP251, EP259, EP261, EP266
