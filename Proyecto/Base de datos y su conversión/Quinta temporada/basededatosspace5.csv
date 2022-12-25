@@ -64,7 +64,7 @@
 62	79	Slowpoke	Agua	Psíquico	EP218, EP246, EP262
 63	80	Slowbro	Agua	Psíquico	EP246, EP262
 64	81	Magnemite	Eléctrico	Acero	EP225, EP226, EP244
-65	82	Magneton	Eléctrico	Acero	EP000
+65	82	Magneton	Eléctrico	Acero	EP270
 66	83	Farfetch'd	Normal	Volador	EP247
 67	84	Doduo	Normal	Volador	EP225
 68	85	Dodrio	Normal	Volador	EP220, EP230
@@ -97,7 +97,7 @@
 95	119	Seaking	Agua	Agua	EP217, EP218, EP246
 96	120	Staryu	Agua	Agua	EP212, EP215, EP216, EP217, EP218, EP223, EP225, EP227, EP233, EP248, EP254, EP255, EP258, EP261, EP275
 97	121	Starmie	Agua	Psíquico	EP212
-98	122	Mr. Mime	Psíquico	Hada2	EP227, EP268, EP269, EP274, EP275
+98	122	Mr.Mime	Psíquico	Hada2	EP227, EP268, EP269, EP274, EP275
 99	123	Scyther	Bicho	Volador	EP225, EP227, EP230, EP257, EP267
 100	124	Jynx	Hielo	Psíquico	EP252
 101	125	Electabuzz	Eléctrico	Eléctrico	EP224, EP244, EP269

@@ -141,7 +141,7 @@ ID POKEDEX POKEMON TIPO1 TIPO2
 139 119 Seaking Agua Agua
 140 120 Staryu Agua Agua
 141 121 Starmie Agua Psíquico
-142 122 Mr. Mime Psíquico
+142 122 Mr.Mime Psíquico Hada4
 143 123 Scyther Bicho Volador
 144 124 Jynx Hielo Psíquico
 145 125 Electabuzz Eléctrico Eléctrico
@@ -167,3 +167,4 @@ ID POKEDEX POKEMON TIPO1 TIPO2
 165 175 Togepi Hada2 Hada2
 166 183 Marill Agua Hada5
 167 250 Ho-Oh Fuego Volador
+
