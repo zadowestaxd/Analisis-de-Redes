@@ -43,11 +43,11 @@ ID POKEDEX POKEMON TIPO1 TIPO2
 41 33 Nidorino Veneno Veneno
 42 34 Nidoking Veneno Tierra
 43 34 NidokingIR Veneno Tierra
-44 35 Clefairy Hada2 Hada2
-45 36 Clefable Hada2 Hada2
+44 35 Clefairy Hada Hada
+45 36 Clefable Hada Hada
 46 37 Vulpix Fuego Fuego
 47 38 Ninetales Fuego Fuego
-48 39 Jigglypuff Normal Hada2
+48 39 Jigglypuff Normal Hada
 49 41 Zubat Veneno Volador
 50 42 Golbat Veneno Volador
 51 43 Oddish Planta Veneno
@@ -99,8 +99,8 @@ ID POKEDEX POKEMON TIPO1 TIPO2
 97 78 Rapidash Fuego Fuego
 98 79 Slowpoke Agua Psíquico
 99 80 Slowbro Agua Psíquico
-100 81 Magnemite Eléctrico Acero3
-101 82 Magneton Eléctrico Acero3
+100 81 Magnemite Eléctrico Acero
+101 82 Magneton Eléctrico Acero
 102 83 Farfetch'd Normal Volador
 103 84 Doduo Normal Volador
 104 85 Dodrio Normal Volador
@@ -141,7 +141,7 @@ ID POKEDEX POKEMON TIPO1 TIPO2
 139 119 Seaking Agua Agua
 140 120 Staryu Agua Agua
 141 121 Starmie Agua Psíquico
-142 122 Mr.Mime Psíquico Hada4
+142 122 Mr.Mime Psíquico Hada
 143 123 Scyther Bicho Volador
 144 124 Jynx Hielo Psíquico
 145 125 Electabuzz Eléctrico Eléctrico
@@ -164,7 +164,7 @@ ID POKEDEX POKEMON TIPO1 TIPO2
 162 147 Dratini Dragón Dragón
 163 148 Dragonair Dragón Dragón
 164 149 Dragonite Dragón Volador
-165 175 Togepi Hada2 Hada2
-166 183 Marill Agua Hada5
+165 175 Togepi Hada Hada
+166 183 Marill Agua Hada
 167 250 Ho-Oh Fuego Volador
 
