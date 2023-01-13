@@ -7,7 +7,7 @@ using namespace std;
 
 const int POKEMONS = 214; //segunda temporada 168 pokemons, quinta temporada 214
 const int POPULARES = 2; //segunda temporada 3 popoulares, quinta temporada 2
-const int num_episodios = 64; //segunda temporada 63 episodios, quinta temporada 65
+const int num_episodios = 65; //segunda temporada 63 episodios, quinta temporada 65
 int main() {
 	string temp;
 	int matriz[POKEMONS][POKEMONS] = {0};
@@ -16,7 +16,7 @@ int main() {
 	int populares[POPULARES];
 	int actual = 0;
 	map<string, map<int, string>> diccionario;
-	ifstream archivo("basededatosspace.csv");
+	ifstream archivo("basededatosspace5.csv");
 	if (!archivo.is_open())
 		cout << "error";
 
@@ -77,12 +77,13 @@ int main() {
 	
 	//Contador de episodios y pokemons que aparecen en estos	
 	auto it = diccionario.begin();
-	int cont = 0;
+	float contep = 0, contpokemons = 0;
 	while (it != diccionario.end()){
-		cont++;
+		contep++;
 		cout << "KEY/EPISODIO: " << it->first << " Pokemons que aparecen en este episodio: ";
 		auto it2 = diccionario[it->first].begin();
 		while (it2 != diccionario[it->first].end()) {
+			contpokemons++;
 			cout << it2->first<<" ";
 			it2++;
 		}
@@ -90,7 +91,9 @@ int main() {
 		cout << endl;
 	}
 	//contador episodios
-	cout << cont;
+	cout << "NUM DE EPISODIOS: "<<contep<<"\n";
+	cout << "NUM APARICION POKEMONS: " << contpokemons<<endl;
+	cout << "Media aparicion de pokemons por capitulos: " << contpokemons / contep;
 	
 	return 0;
 }
